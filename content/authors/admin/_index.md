@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Teams Consulting Group
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Specialist in turbine engine advisory
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Vision & Mission
+On everything we do, we believe in challenging status quo. We believe in thinking differently, in inspiring people to do what they inspire to do.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The way to challenge the status quo is by creating consistent, superior and enjoyable experiecne and providing maximum return to our customers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+TEAMS Consulting Group is the consultancy service dedicated to providing efficient and cost-effective turbine engine advisory services. We aim to be creative, innovative and be the service provider of choice that can add value to customer's business by saving customers' money and time.
