@@ -1,25 +1,26 @@
 ---
 # Display name
-title: Teams Consulting Group
+title: TEAMS Consulting Group
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Specialist in turbine engine advisory
+role: Specialists in turbine engine advisory
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Pratt & Whitney Canada
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Organizational Values:
+- Honesty
+- Quality
+- Dependability
+- Innovation
 
 education:
   courses:
@@ -69,6 +70,7 @@ user_groups:
 - Visitors
 ---
 Vision & Mission
+---
 On everything we do, we believe in challenging status quo. We believe in thinking differently, in inspiring people to do what they inspire to do.
 
 The way to challenge the status quo is by creating consistent, superior and enjoyable experiecne and providing maximum return to our customers.
