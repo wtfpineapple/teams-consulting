@@ -6,7 +6,7 @@ title: TEAMS Consulting Group
 superuser: true
 
 # Role/position
-role: Specialists in turbine engine advisory
+role: Specialists in turbine engines
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Interests:
+values:
 - Honesty
 - Quality
 - Dependability
@@ -71,8 +71,8 @@ user_groups:
 ---
 Vision & Mission
 ---
-On everything we do, we believe in challenging status quo. We believe in thinking differently, in inspiring people to do what they inspire to do.
+In everything we do, we believe in challenging status quo. We believe in thinking differently, in inspiring people to do what they inspire to do.
 
 The way to challenge the status quo is by creating consistent, superior and enjoyable experiecne and providing maximum return to our customers.
 
-TEAMS Consulting Group is the consultancy service dedicated to providing efficient and cost-effective turbine engine advisory services. We aim to be creative, innovative and be the service provider of choice that can add value to customer's business by saving customers' money and time.
+TEAMS is the consultancy service dedicated to providing efficient and cost-effective turbine engine advisory services. We aim to be creative, be innovative and be the service provider of choice that can add value to customer's business by saving customers' money and time.
