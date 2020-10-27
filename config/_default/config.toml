@@ -21,7 +21,7 @@ copyright = "&copy; {year} Danny Vu "
 ############################
 
 # Get last modified date for content from Git?
-enableGitInfo = False
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
